@@ -1,4 +1,6 @@
 # BMI Calculator
+# Link
+- https://xerinzxx.github.io/BMI/
 
 ## Table of Contents
 - [Overview](#overview)
@@ -26,7 +28,7 @@ To run this application locally, follow these steps:
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd bmi-calculator
+    cd BMI
     ```
 3. **Open the `index.html` file in your web browser:**
     - On Windows:
