@@ -7,7 +7,6 @@
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -75,5 +74,5 @@ Contributions are welcome! If you would like to contribute, please follow these 
 ## Contact
 If you have any questions or suggestions, feel free to reach out.
 
-- **Email:** Srinivasy369@gmail.com
-- **GitHub:** (https://github.com/Xerinzxx)
+- **Email:** srinivasy369@gmail.com
+- **GitHub:** https://github.com/Xerinzxx
